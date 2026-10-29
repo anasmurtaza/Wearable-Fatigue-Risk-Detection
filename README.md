@@ -195,4 +195,9 @@ For labels use a trusted reference, for example a reaction-time test (PVT), expe
 Python, NumPy, pandas, scikit-learn, matplotlib, joblib, tkinter, Jupyter.
 
 ## Author
-**Muhammad Anas Murtaza**, BS Artificial Intelligence, COMSATS University Islamabad (Attock Campus).
+👨‍💻 Developer
+Muhammad Anas Murtaza
+
+GitHub: https://github.com/anasmurtaza
+
+Linkedin: https://www.linkedin.com/in/m-anas-murtaza
