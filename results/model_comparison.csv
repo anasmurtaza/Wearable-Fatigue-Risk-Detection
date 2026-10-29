@@ -1,0 +1,5 @@
+,cv_macro_f1,accuracy,macro_f1,high_recall,high_precision
+Rule-based score,,0.814,0.752,0.579,0.864
+Logistic Regression,0.799,0.837,0.796,0.817,0.759
+Random Forest,0.794,0.842,0.792,0.721,0.811
+Gradient Boosting,0.787,0.843,0.791,0.726,0.822

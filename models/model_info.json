@@ -1,0 +1,17 @@
+{
+  "model": "Logistic Regression",
+  "trained": "2026-10-29 15:35",
+  "python": "3.13.7",
+  "sklearn": "1.8.0",
+  "train_windows": 4480,
+  "test_windows": 1520,
+  "train_people": 112,
+  "test_people": 38,
+  "test_scores": {
+    "cv_macro_f1": 0.799,
+    "accuracy": 0.837,
+    "macro_f1": 0.796,
+    "high_recall": 0.817,
+    "high_precision": 0.759
+  }
+}

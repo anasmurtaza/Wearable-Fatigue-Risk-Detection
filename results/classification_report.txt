@@ -1,0 +1,11 @@
+Best model: Logistic Regression (test people: 38, windows: 1520)
+
+              precision    recall  f1-score   support
+
+         Low      0.933     0.892     0.912       938
+    Moderate      0.667     0.712     0.688       385
+        High      0.759     0.817     0.787       197
+
+    accuracy                          0.837      1520
+   macro avg      0.786     0.807     0.796      1520
+weighted avg      0.843     0.837     0.839      1520

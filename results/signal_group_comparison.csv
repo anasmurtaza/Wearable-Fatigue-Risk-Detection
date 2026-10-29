@@ -1,0 +1,7 @@
+,accuracy,macro_f1,high_recall,high_precision
+Heart rate + HRV only,0.522,0.437,0.675,0.271
+Movement only,0.673,0.616,0.706,0.521
+Heart + Movement (body signals),0.686,0.628,0.716,0.54
+Sleep only,0.776,0.714,0.721,0.693
+Sleep + Schedule,0.824,0.78,0.802,0.756
+All signals,0.837,0.796,0.817,0.759
